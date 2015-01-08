@@ -14,3 +14,6 @@
 
 **Programming Experience:** Outside of my experience with C++ from CS 165, I've worked with SAS and R extensively while pursuing my first B.S.
 
+##*Favorite Color*##
+
+Actually, my favorite color is Blue and I'm actually a Vampire.
