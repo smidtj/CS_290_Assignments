@@ -8,3 +8,5 @@
 
 ##*Programming Background*##
 
+**Favorite CS 165 Project:** My favorite programming project last quarter was my final project.  I created a small console game called "Lost at Sea." The player could find treasure and grog, encounter pirates, discover land, and even do battle with a vicious kracken.  This was of course complete with an ASCII ship sailing across the console after a decision was selected.
+
